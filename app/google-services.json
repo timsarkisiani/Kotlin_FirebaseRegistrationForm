@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "18378073754",
+    "project_id": "davaleba5-906a4",
+    "storage_bucket": "davaleba5-906a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18378073754:android:a5bc05982c52a64b76e123",
+        "android_client_info": {
+          "package_name": "ge.tim.sarkisiani.davaleba_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18378073754-3jerqjidvapc6gakgaim48qvrus07mgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4TB5ahJVYLMNTOoCY-nwx1VaT1OwcBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18378073754-3jerqjidvapc6gakgaim48qvrus07mgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18378073754:android:4122f14e666e7e0a76e123",
+        "android_client_info": {
+          "package_name": "ge.tim.sarkisiani.registration_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18378073754-3jerqjidvapc6gakgaim48qvrus07mgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4TB5ahJVYLMNTOoCY-nwx1VaT1OwcBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18378073754-3jerqjidvapc6gakgaim48qvrus07mgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
